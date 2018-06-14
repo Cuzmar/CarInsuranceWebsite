@@ -1,0 +1,15 @@
+* Practice on linode
+  -Centos 7
+  -Apache using domain
+  -PHP 7 install
+  -MySQL secure install
+  -October CMS
+  -Secure website using LetsEncrypt
+  
+ *Create a domain name
+ 
+ *Create a..
+  -Use case diagram
+  -data dictionary
+  -data flow diagram
+  -system diagram
